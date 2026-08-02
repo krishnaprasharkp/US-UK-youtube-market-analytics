@@ -1,7 +1,4 @@
--- ============================================================
--- Dislike Rate (Controversy) Analysis
--- Identifies the most polarizing categories by market
--- ============================================================
+
 
 SELECT
   CASE CAST(category_id AS INT64)
@@ -23,10 +20,5 @@ GROUP BY category_name
 ORDER BY dislike_pct DESC
 LIMIT 5;
 
--- Result: News & Politics is the most polarizing category in the US
--- at ~19.5% dislike rate. Run against gb_videos for UK comparison
--- (~11.5%).
 
--- Note: small-sample categories (e.g., Nonprofits & Activism, n=14)
--- showed high variance and were excluded from the final dashboard
--- visualization to avoid misleading comparisons.
+
