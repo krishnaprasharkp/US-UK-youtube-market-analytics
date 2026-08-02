@@ -1,8 +1,4 @@
--- ============================================================
--- Category Performance Analysis — Views
--- Maps numeric category_id to readable category names and
--- calculates average views + like rate per category
--- ============================================================
+
 
 SELECT
   CASE CAST(category_id AS INT64)
