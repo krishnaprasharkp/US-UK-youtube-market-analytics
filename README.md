@@ -182,4 +182,5 @@ During dashboard validation, a **SUM vs. AVERAGE aggregation discrepancy** was i
 
 # Contact
 
-If you have any questions or feedback about this project, feel free to connect with me on LinkedIn or explore my other repositories.
+If you have any questions, feedback, or would like to discuss this project, feel free to reach out.
+**Email:** [iamkrishnaprashar@gmail.com](mailto:iamkrishnaprashar@gmail.com)
