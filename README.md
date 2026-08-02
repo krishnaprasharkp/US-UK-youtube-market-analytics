@@ -77,6 +77,9 @@ This project answers the following questions:
 - How do user preferences differ between the US and UK markets?
 - What insights can content creators and marketers derive from these trends?
 
+---
+
+
 # Analysis Performed
 
 ## 1. Data Quality Validation
