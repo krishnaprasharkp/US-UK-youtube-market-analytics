@@ -1,7 +1,3 @@
--- ============================================================
--- Engagement Rate Analysis
--- Calculates like rate (%) by category for cross-market comparison
--- ============================================================
 
 SELECT
   CASE CAST(category_id AS INT64)
